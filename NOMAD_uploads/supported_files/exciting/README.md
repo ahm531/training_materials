@@ -1,4 +1,4 @@
-# FAIRmat training materials # 
+# FAIRmat training materials 
 
 ## Uploading, sharing, and publishing computation data ##
 In this example we explain the NOMAD upload function, through which users can upload, share, and publish their research data and relevant files. 
@@ -50,8 +50,8 @@ These calculations were preformed using the *exciting* code.
 NOMAD has a parser for the *exciting* code. This means it will read exciting input and output files and provide all information in NOMAD's unified Metainfo based Archive format.
 [View the parser here!](https://github.com/nomad-coe/nomad-parser-exciting)
 ## Tasks ##
-1. Create a NOMAD account.
-2. Prepare the input and output files in .zip file.
+1. Create a NOMAD account. [View step-by-step guide.](step-by-step-guides/CreateaNOMADaccount.pdf)
+2. Prepare the input and output files in .zip file.[View step-by-step guide.](step-by-step-guides/prepare_files_exciting.md)
 3. Create a NOMAD upload. 
 4. Add data files to your NOMAD upload. 
 4. Share the upload with a colleague.
@@ -59,9 +59,7 @@ NOMAD has a parser for the *exciting* code. This means it will read exciting inp
 6. Understand the data strucutre.
 
 ## Files ##
-The files used in this example can be downloaded from this link.
-
-## Step-by-step guide ##
+The files used in this example can be downloaded from this [link](files/Si_gw.zip).
 
 ## Additional resources ##
 
