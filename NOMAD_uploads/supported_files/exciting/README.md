@@ -45,7 +45,7 @@ The calculated properties of silicon, such as band gap and effective mass, direc
 
 These calculations were preformed using the *exciting* code. 
 
-*exciting* is a full-potential all-electron density-functional-theory package implementing linearized augmented planewave methods. It can be applied to all kinds of materials, irrespective of the atomic species involved and allows for exploring the physics of core electrons. [More information](https://exciting-code.org/)
+*exciting* is a full-potential all-electron density-functional-theory package implementing linearized augmented planewave methods. It can be applied to all kinds of materials, irrespective of the atomic species involved and allows for exploring the physics of core electrons. [More information on this link](https://exciting-code.org/)
 
 NOMAD has a parser for the *exciting* code. This means it will read exciting input and output files and provide all information in NOMAD's unified Metainfo based Archive format.
 [View the parser here!](https://github.com/nomad-coe/nomad-parser-exciting)
